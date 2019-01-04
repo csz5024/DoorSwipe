@@ -3,6 +3,7 @@ Repo for Arduino based IoT project version 1.3.
 
 Apply 12VDC power supply of >6W. I used an old 40W laptop charger.
 
+
 ## File Directory
  - Gerber_doorswipepcb_20190104145725.zip
    - Contains Gerber files for custom printed PCB
@@ -22,3 +23,9 @@ Apply 12VDC power supply of >6W. I used an old 40W laptop charger.
    
  - doorSwipe_v1.3.pdf
    - PDF of v1.3 schematic
+
+
+## Notes
+
+
+## Future Updates
