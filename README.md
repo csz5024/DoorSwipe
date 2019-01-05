@@ -3,6 +3,9 @@ Repo for Arduino based IoT project version 1.3.
 
 Apply 12VDC power supply of >6W. I used an old 40W laptop charger.
 
+### Goal of this Project:
+To Familiarize myself with MOSFET and 7805 Voltage Regulator components, while providing a practical application for an ongoing IoT porject.
+
 
 ## File Directory
  - Gerber_doorswipepcb_20190104145725.zip
@@ -32,7 +35,11 @@ Apply 12VDC power supply of >6W. I used an old 40W laptop charger.
  - due to it only being under full load for 5 seconds only a couple times per day, I estimated a net of .3W power consumption.
  
  **Cost:** 7.2Wh -> $0.37 to run per year (based on my cost of electricity)
+ 
+ ### Shortcomings:
+ I wanted to create my own 120VAC->12VDC power converter using a step down transformer and a full bridge rectifier, however I realized that this was way out of my scope of knowledge and presented a very real danger if done improperly. Plus I only had two weeks to complete this project, so I just scrounged up a spare power supply.
 
 
 ## Future Updates
- - Plan to add 
+ - Plan to implement ESP8266 WIFI module in the future and build an andriod app with MIT App Inventor that can lock and unlock the door, bypassing the need for RFID.
+ - Plan to add it to Central IoT processor (raspberry pi).
