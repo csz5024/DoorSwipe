@@ -26,6 +26,12 @@ Apply 12VDC power supply of >6W. I used an old 40W laptop charger.
 
 
 ## Notes
+**Power Consumption:**
+ - The status LED, RFID reader, and Nano add up to about 0.186W on standby
+ - About 4.2-4.5W under full load, mostly due to Electric Strike
+ - due to it only being under full load for 5 seconds only a couple times per day, I estimated a net of .3W power consumption.
+ **Cost:** 7.2Wh -> $0.37 to run per year (based on my cost of electricity)
 
 
 ## Future Updates
+ - Plan to add 
