@@ -1,5 +1,5 @@
 # DoorSwipe
-Repo for Arduino based IoT project version 1.3.
+Repo for Arduino based IoT project version 1.3: RFID activated maglock.
 
 Apply 12VDC power supply of >6W. I used an old 40W laptop charger.
 
